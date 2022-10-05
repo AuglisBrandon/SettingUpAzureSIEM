@@ -35,7 +35,7 @@ Step by Step process for this lab: <br/>
 <br/>
 <br/>
 
-- Now you will set up your VM, so first you're going to want to creat a new Resource group and name it, to do this, you will want to click "Create New", then name the Resource Group what ever name you wish then click "OK": <br/>
+- Now you will set up your VM, so first you're going to want to create a new Resource group and name it, to do this, you will want to click "Create New", then name the Resource Group what ever name you wish then click "OK": <br/>
 ![Screenshot 2022-10-03 231731](https://user-images.githubusercontent.com/114842751/193720530-4dec3e67-5853-4b9b-963c-45a2310056b1.png)
 <br/>
 <br/>
